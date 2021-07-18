@@ -1,1 +1,4 @@
-
+This is a simple calculator. you can check this  here https://waterpond.herokuapp.com/
+language used: python
+frameworks used: flask
+cloud platform: Heroku
